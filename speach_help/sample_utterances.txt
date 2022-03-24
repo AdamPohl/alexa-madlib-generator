@@ -1,0 +1,15 @@
+NounIntent {Noun}
+
+AdjectiveIntent {Adjective}
+
+VerbIntent {Verb}
+
+AdverbIntent {Adverb}
+
+AMAZON.HelpIntent What it can do
+AMAZON.HelpIntent What can you do
+
+AMAZON.HelpIntent what it can do
+AMAZON.HelpIntent what can you do
+
+AMAZON.StopIntent exit

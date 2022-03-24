@@ -1,0 +1,49 @@
+{
+    "intents": [
+        {
+            "intent": "NounIntent",
+            "slots": [
+                {
+                    "name": "Noun",
+                    "type": "LIST_OF_NOUNS"
+                }
+            ]
+        },
+        {
+            "intent": "AdjectiveIntent",
+            "slots": [
+                {
+                    "name": "Adjective",
+                    "type": "LIST_OF_ADJECTIVES"
+                }
+            ]
+        },
+        {
+            "intent": "VerbIntent",
+            "slots": [
+                {
+                    "name": "Verb",
+                    "type": "LIST_OF_VERBS"
+                }
+            ]
+        },
+        {
+            "intent": "AdverbIntent",
+            "slots": [
+                {
+                    "name": "Adverb",
+                    "type": "LIST_OF_ADVERBS"
+                }
+            ]
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}
